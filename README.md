@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou Igor e você esta no meu perfil 👋
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorunderplayer&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorunderplayer&layout=compact&theme=tokyonight)
 
 <!--
 **igorunderplayer/igorunderplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
