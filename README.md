@@ -1,8 +1,15 @@
 ### Olá, eu sou Igor e você esta no meu perfil 👋
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorunderplayer&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorunderplayer&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/?username=igorunderplayer&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=539BF5&hide_title=true&count_private=true"/>
+    </td>
+      <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorunderplayer&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 **igorunderplayer/igorunderplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
