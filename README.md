@@ -2,6 +2,8 @@
 
 - Brazil 🌴
 
+---
+
 ## Tools & languages
 
 Editors and languages that i use, or i am learning
@@ -14,7 +16,6 @@ Editors and languages that i use, or i am learning
 ![Badge Language](https://img.shields.io/badge/language-kotlin-blueviolet?style=for-the-badge&logo=kotlin)
 ![Badge Language](https://img.shields.io/badge/language-rust-orange?style=for-the-badge&logo=rust)
 ![Badge Language](https://img.shields.io/badge/language-lua-darkblue?style=for-the-badge&logo=lua)
-
 
 ---
 
