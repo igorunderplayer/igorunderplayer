@@ -2,7 +2,6 @@
 
 👋 Howdy! I'm Igor — a passionate Software Engineering student from Brazil who loves building software, exploring new tools, and constantly learning.
 
-- Currently working as a developer at [Remofer](https://www.remoferdobrasil.com.br/)
 
 ## 🥺 Support me 👇
 
@@ -16,7 +15,7 @@ If you like what I do, consider supporting me!
 ## 🖥️ Systems
 
 ![Windows](https://img.shields.io/badge/🪟%20windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-1793D1?style=for-the-badge&logo=fedora&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
 
 
